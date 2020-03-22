@@ -1,0 +1,5 @@
+
+License: GNU General Public License V3
+         (Because sdfatlib is licensed with this.)
+
+(C) Copyright 2010 SparkFun Electronics
